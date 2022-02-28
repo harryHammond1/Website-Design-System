@@ -1,0 +1,98 @@
+html {
+    margin: 0px 150px 150px 150px;
+}
+
+body{
+    background-color: rgb(151, 151, 151);
+}
+
+h1 {
+    color:#7D0606;
+    font-size: 50px;
+}
+
+.Colours {
+    width: 400px;
+    height: 100px;
+    padding: 30px;
+    margin: 30px;
+    display: inline-block;
+    text-align:center;
+    color: whitesmoke;
+    font-size: 2em;
+    border: 2px solid white;
+
+}
+#black {
+    background-color: #2C2424;
+    color: #dacb00;
+}
+
+#teal {
+    background-color: #10A39B;
+    color: #7D0606;
+}
+
+#gold {
+        background-color: #dacb00;
+        color:#2C2424;
+    }
+
+#burgundy {
+     background-color: #7D0606;
+     color: #DACB00;
+}
+
+#colors {
+    border: 1px solid black;
+    background-color: #2C2424;
+}
+
+h2 {
+    margin: 20px;
+    text-align: left;
+    text-decoration: underline;
+    color:#DACB00;
+    font-size: 34px;
+}
+#fonts {
+    border: 1px solid black;
+    background-color: #2C2424;
+    margin-top:30px;
+    text-align:center;
+    
+}
+
+.typography{
+    display:inline-block;
+    text-align:center;
+    padding: 0px 40px;
+}
+
+h3 {
+    text-decoration:underline;
+    font-size: 22px;
+    color:#7D0606
+}
+
+p, li {
+    font-family: 'Raleway', sans-serif;
+    color:#10A39B;
+    font-size: 18px;
+    font-style: italic;
+}
+
+h1, h2, h3 {
+    font-family: 'Noto Serif Display', serif;
+}
+
+#raleway {
+    font-family: 'Raleway', sans-serif;
+}
+
+#Textstyles {
+    border: 1px solid black;
+    background-color: #2C2424;
+    margin-top:30px;
+    padding: 20px;
+}
